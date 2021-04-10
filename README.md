@@ -29,3 +29,18 @@ We have been tasked with the following as per AutoRUs';
 ![image](https://user-images.githubusercontent.com/76462602/114278036-d091f700-99fb-11eb-946f-a020f18dc4e5.png)
 
 ## Study Design: MechaCar vs. Competition
+* We feel the following metrics would be very influential and of interest to potential consumers;
+ 1) Cost
+ 2) Fuel Efficiency
+ 3) Saftey Rating
+ 4) Resale Value
+
+* Our Hypothesis is that these four factors significantly determine which car to purchase and that they are closely related.
+* Our Null Hypothesis is that these four factors are not closely related and that 1 factor outweighs the rest.
+
+* We would use 2 statistical tests to help determine the hypothesis
+ a) Multiple Linear Regression because it uses more than 1 variable the data is continuous and would show us how much variance in the dependent variable accounted for in a linear cpmbination.
+ b) Chi-Squared because it would show us if there is difference in categorical frequencies between groups.
+ 
+ * The Data we would need to complete the following would be car data that we feel is the direct competition to our MechaCar prototypes. Once that is determined, we would gather and compare.
+
